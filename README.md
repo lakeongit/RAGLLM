@@ -1,4 +1,3 @@
-# RAGLLM
 Step 1: Set Up the Environment
 Install Required Libraries:
 openai for GPT-4
